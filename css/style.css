@@ -26,10 +26,6 @@ margin: 0px 52px;
     margin: -35px 0px;
 }
 
- li
-{
-float: right;
-}
 header p {
     margin: -19px;
     width: 338px;
@@ -50,4 +46,21 @@ article{
     line-height: 1.5;
     text-indent: 36px;
     text-align: justify;
+}
+.checkbox
+{
+    background-image: url(../images/list-bg.png);
+    background-size: contain;
+    width: 900px;
+}
+.checkbox ul:nth-child(1) {
+    width: 50%;
+    list-style-type: square;
+}
+.checkbox ul:nth-child(2) {
+    list-style-type: square;
+}
+footer section hr{
+    margin: 10px;
+    color: gray;
 }
