@@ -1,0 +1,24 @@
+body
+{
+    width: 960px;
+}
+h1
+{
+    font-style: italic;
+    text-align: left;
+}
+#img{
+    
+    float:left;
+    margin-top: auto;
+}
+
+.image{
+    float: right;
+    margin-top: auto;
+}
+
+ li
+{
+float: right;
+}
